@@ -7,5 +7,8 @@ public class Test {
 		System.out.println("辣狗子香呀哈 呼哈辣！");
 		System.out.println("一把辣椒 呀 辣呼哈");
 		
+		
+		System.out.println("小老弟 你有问题");
+		
 	}
 }
