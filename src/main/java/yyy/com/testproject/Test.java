@@ -5,6 +5,7 @@ public class Test {
 		System.out.println("Hello Git");
 		System.out.println("À±¹·×ÓÀ± À±¹·×ÓÀ±");
 		System.out.println("À±¹·×ÓÏãÑ½¹ş ºô¹şÀ±£¡");
+		System.out.println("Ò»°ÑÀ±½· Ñ½ À±ºô¹ş");
 		
 	}
 }
